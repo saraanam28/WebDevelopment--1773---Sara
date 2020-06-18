@@ -1,3 +1,6 @@
+/* index.html css */
+
+
 .scroll-downs {
 
     top: 0;
@@ -150,5 +153,23 @@
 }
 
 
+/* testimonials.html css */
 
+.tests-container {
+  margin-top: 6%
+}
+
+.tests-main {
+  margin: 3.5%
+}
+
+.tests-form {
+  margin-right: 20%;
+}
+
+/*Common CSS*/
+
+.loader-removed{
+  display: none;
+}
 
